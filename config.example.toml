@@ -172,8 +172,8 @@
     ### Example: "http://user:pass@proxy:1234"
     ### Doc: https://requests.readthedocs.io/en/latest/user/advanced/#proxies
 
-    http = "http://127.0.0.1:7890"
-    https = "http://127.0.0.1:7890"
+    http = "http://127.0.0.1:2080"
+    https = "http://127.0.0.1:2080"
 
 [azure]
     # Azure Speech API Key
